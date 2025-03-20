@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkinc_docs=self.webpackChunkkinc_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/kinc-docs/blog","blogTitle":"Blog","authorsListPath":"/kinc-docs/blog/authors"}')}}]);
